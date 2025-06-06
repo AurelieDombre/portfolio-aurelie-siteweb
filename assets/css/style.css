@@ -358,8 +358,7 @@
 
         .skill-tags {
             display: flex;
-            /*flex-wrap: wrap;*/
-            flex-direction: row;
+            flex-wrap: wrap;
             gap: 0.5rem;
         }
 
